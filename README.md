@@ -10,6 +10,7 @@ Repo containing example code &amp; trial code made while learning Python
 # Methods/Functions
 
     def is_even(num):
+        "Method comments go in a string immediately UNDER the declaration; need a capital and a full stop."
         return <thing>
 
 # Simultaneous assignment

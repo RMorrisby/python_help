@@ -18,7 +18,7 @@ def fib(a, b):
     return c
 
 def is_even(num):
-    # Is the number even?
+    "Is the number even?"
     return num % 2 == 0
 
 
